@@ -2,9 +2,9 @@ package lab;
 import java.util.Scanner;
 public class evenodd {
 
-	    public static void main(String[] args) {
+	    public static void main(String[] args) {    // main function
 
-	        Scanner reader = new Scanner(System.in);
+	        Scanner reader = new Scanner(System.in);   // scanner
 
 	        System.out.print("Enter a number: ");
 	        int num = reader.nextInt();
